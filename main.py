@@ -13,7 +13,7 @@ from Help import Cmd
 
 # importing libraries
 
-os.chdir('C:/Users/axolo/Documents')
+os.chdir('C:/Users/axolo/Documents/Storage')
 
 # enabling all intents and setting a command prefix for commands
 intents = discord.Intents.all()
