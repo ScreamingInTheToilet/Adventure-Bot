@@ -1,0 +1,1 @@
+{"833618678154395679": {"toolkit": 0, "Scraps": 16, "Schematic": 0, "fish": 0, "bread": 0, "beef": 0, "pork": 0, "Wheat": 0, "Gem": 0, "Books": 0, "Ancient_Medallions": 0, "FishingRod": 1, "Shovel": 0}}
