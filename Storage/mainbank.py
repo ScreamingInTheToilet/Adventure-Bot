@@ -1,1 +1,0 @@
-{"833618678154395679": {"experience": 66, "upgrade": 2, "damage": 109, "code": 3145, "Coins": 159, "things": 1, "Gem": 0, "level": 8, "health": 440}}
